@@ -7,5 +7,8 @@ public class Car implements Moveable {
 		// TODO Auto-generated method stub
 		System.out.println(11);
 	}
+	public void dirve() {
+		System.out.println("i can dirve");
+	}
 
 }
