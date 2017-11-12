@@ -13,5 +13,7 @@ public class Car implements Moveable {
 	public void driver() {
 		System.out.println("i am a driver");
 	}
-
+	public void run() {
+		
+	}
 }
