@@ -10,5 +10,8 @@ public class Car implements Moveable {
 	public void dirve() {
 		System.out.println("i can dirve");
 	}
+	public void driver() {
+		System.out.println("i am a driver");
+	}
 
 }
